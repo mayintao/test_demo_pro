@@ -1,0 +1,7 @@
+#Thu Oct 13 11:20:17 CST 2016
+base.0=E\:\\PROJECT\\MytTestDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b3ded536436f275a7f0336d27b034ae46a59cdd6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\PROJECT\\MytTestDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69df257c00354c3cbd1a118f18ed6b75dd7faf6f\\classes.dex
+base.1=E\:\\PROJECT\\MytTestDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69df257c00354c3cbd1a118f18ed6b75dd7faf6f
+file.0=E\:\\PROJECT\\MytTestDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b3ded536436f275a7f0336d27b034ae46a59cdd6\\classes.dex

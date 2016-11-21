@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\PROJECT\MytTestDemo\assets"/><source path="E:\PROJECT\MytTestDemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\PROJECT\MytTestDemo\build-types\debug\assets"/></dataSet></merger>

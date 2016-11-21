@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_tx1">#f4f4f4</color>
+	<color name="color_tx2">#d5d5d5</color>
+	<color name="color_tx3">#999999</color>
+	<color name="color_tx4">#666666</color>
+	<color name="color_tx5">#555555</color>
+	<color name="color_tx6">#333333</color>
+	<color name="color_tx7">#e84c3d</color>
+	<color name="color_tx8">#e84c3d</color>
+	<color name="color_tx8_alpha">#80e84c3d</color>
+	<color name="color_tx9">#f9f9f9</color>
+	<color name="color_tx10">#d9d9d9</color>
+	<color name="color_tx11">#fce9e7</color>
+	<color name="color_tx12">#fcada5</color>
+	<color name="color_tx13">#ffffff</color>
+	<color name="color_tx14">#cfcfcf</color>
+	<color name="color_tx15">#64a0d3</color>
+	<color name="color_tx16">#fa0102</color>
+	<color name="color_tx17">#429f22</color>
+	<color name="color_bg">#00000000</color>
+	<color name="color_print_text">#515151</color>
+	
+	 <!-- 二维码扫描 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    
+       <color name="ll_color_tx1">#f4f4f4</color>
+    <color name="ll_color_tx2">#d5d5d5</color>
+    <color name="ll_color_tx3">#999999</color>
+    <color name="ll_color_tx4">#666666</color>
+    <color name="ll_color_tx5">#555555</color>
+    <color name="ll_color_tx6">#333333</color>
+    <color name="ll_color_tx7">#e84c3d</color>
+    <color name="ll_color_tx8">#e84c3d</color>
+    <color name="ll_color_tx8_alpha">#80e84c3d</color>
+    <color name="ll_color_tx9">#f9f9f9</color>
+    <color name="ll_color_tx10">#d9d9d9</color>
+    <color name="ll_color_tx11">#fce9e7</color>
+    <color name="ll_color_tx12">#fcada5</color>
+    <color name="ll_color_tx13">#ffffff</color>
+    <color name="ll_color_tx14">#cfcfcf</color>
+    <color name="ll_color_tx15">#64a0d3</color>
+    <color name="ll_color_tx16">#fa0102</color>
+    <color name="ll_color_tx17">#429f22</color>
+    <color name="ll_color_tx18">#f8f8f8</color>
+    <color name="ll_color_bg">#00000000</color>
+    <color name="ll_color_line">#e4e4e4</color>
+    <color name="ll_color_print_text">#515151</color>
+    
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_red">#ff0000</color>
+    <color name="color_blue">#0099cc</color>
+    
+</resources>

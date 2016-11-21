@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\PROJECT\MytTestDemo\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="E:\PROJECT\MytTestDemo\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_e7a64803a4155992721884a8fe9d6a67596ca304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PROJECT\MytTestDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9372d0824c7c38c08b2b1c2ef27e1f33006c4777">
+        <dex dex="E:\PROJECT\MytTestDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_69df257c00354c3cbd1a118f18ed6b75dd7faf6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PROJECT\MytTestDemo\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\PROJECT\MytTestDemo\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_9d17c10393109c3522dda6b24a8d77d461db8b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PROJECT\MytTestDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="70f1066b1fb84bcf8e2a7f6f34a572f4fe01503b">
+        <dex dex="E:\PROJECT\MytTestDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3ded536436f275a7f0336d27b034ae46a59cdd6\classes.dex" />
+    </item>
+
+</items>

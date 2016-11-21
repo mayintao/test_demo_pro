@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\PROJECT\\MytTestDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\PROJECT\\MytTestDemo\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\MytTestDemo\\build\\intermediates\\res\\merged\\debug\\menu\\tab_a.xml",
+        "source": "E:\\PROJECT\\MytTestDemo\\res\\menu\\tab_a.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\MytTestDemo\\build\\intermediates\\res\\merged\\debug\\menu\\tab_b.xml",
+        "source": "E:\\PROJECT\\MytTestDemo\\res\\menu\\tab_b.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\MytTestDemo\\build\\intermediates\\res\\merged\\debug\\menu\\camera_scan.xml",
+        "source": "E:\\PROJECT\\MytTestDemo\\res\\menu\\camera_scan.xml"
+    }
+]
